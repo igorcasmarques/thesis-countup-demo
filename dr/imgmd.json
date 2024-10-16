@@ -29,9 +29,6 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/Right_Choice6.png": "img3.json",
 "dr/Right_Choice9.png": "img3.json",
 "dr/Right_Choice_24.png": "img3.json",
-"dr/Rollover_Caption_2.png": "img3.json",
-"dr/Rollover_Caption_4.png": "img3.json",
-"dr/Rollover_Caption_5.png": "img3.json",
 "dr/si39643.png": "img3.json",
 "dr/si39657.png": "img3.json",
 "dr/si39787.png": "img3.json",
@@ -71,5 +68,6 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/SmartShape_164.png": "img3.json",
 "dr/SmartShape_165.png": "img3.json",
 "dr/SmartShape_166.png": "img3.json",
+"dr/SmartShape_198.png": "img3.json",
 "dr/Text_Entry_Button_2.png": "img3.json",
 "___":"___"};
